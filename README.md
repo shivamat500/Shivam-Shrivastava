@@ -27,7 +27,7 @@
 <br/>
 
 ```python
-class ParthSharma:
+class ShivamShrivastava:
     def __init__(self):
         self.name = "Shivam Shrivastava"
         self.role = "Specialist Data Scientist"
@@ -53,11 +53,11 @@ class ParthSharma:
         ]
     
     def life_motto(self):
-        return "Teaching AI, One Beard Stroke at a Time! 🧔"
+        return "To be get called as the Best Data Scientist, One Beard Stroke at a Time! 🧔"
 
 # Initialize
-parth = ParthSharma()
-print(parth.get_expertise())
+parth = ShivamShrivastava()
+print(shivam.get_expertise())
 ```
 
 ---
