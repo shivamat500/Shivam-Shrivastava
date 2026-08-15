@@ -113,25 +113,4 @@ print(shivam.get_expertise())
 
 </div>
 
----
 
-<h2 align="center">💭 About Me</h2>
-
-- 🔭 Building **AI-powered educational platforms**
-- 🌱 Exploring **cutting-edge AI frameworks and distributed training**
-- 👨💼 Teaching **practical AI/ML** through real-world projects
-- 🥊 Kickboxing enthusiast | ☕ Coffee lover
-- 💬 Ask me about **AI, Data Science, Kickboxing, and Coffee**
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/parthsharma1011/) | [YouTube](https://www.youtube.com/@beardandbinary)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<div align="center">
-  
-⭐️ From [parthsharma1011](https://github.com/parthsharma1011) | Made with ❤️ and ☕
-
-</div>
