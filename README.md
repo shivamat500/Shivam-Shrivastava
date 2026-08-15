@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DD474&center=true&vCenter=true&width=940&lines=Namaste+%F0%9F%99%8F+I'm+Parth+Sharma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DD474&center=true&vCenter=true&width=940&lines=Namaste+%F0%9F%99%8F+I'm+Shivam+Shrivastava" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎯 Specialist Data Scientist |</h3>
