@@ -56,7 +56,7 @@ class ShivamShrivastava:
         return "To be get called as the Best Data Scientist, One Beard Stroke at a Time! 🧔"
 
 # Initialize
-parth = ShivamShrivastava()
+shivam = ShivamShrivastava()
 print(shivam.get_expertise())
 ```
 
