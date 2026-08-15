@@ -49,8 +49,7 @@ class ParthSharma:
         return [
             "Building intelligent AI systems",
             "Teaching practical AI/ML",
-            "Creating educational content",
-            "Helping students master data science"
+            "Helping students to learn and master data science"
         ]
     
     def life_motto(self):
