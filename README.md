@@ -38,7 +38,7 @@ class ShivamShrivastava:
             "ml_frameworks": ["PyTorch", "Horovod", "DDP"],
             "ai_tools": ["LangChain", "LangGraph", "Guardrails"],
             "databases": ["SQL", "MongoDB", "Redis", "Cassandra"],
-            "passion": ["Kickboxing 🥊", "Music 🎵", "AI 🤖", "Coffee ☕"]
+            "passion": ["Badminton 🏸", "Music 🎵", "AI 🤖", "Coffee ☕"]
         }
     
     def current_focus(self):
@@ -49,7 +49,7 @@ class ShivamShrivastava:
         ]
     
     def life_motto(self):
-        return "To be get called as the Best Data Scientist, One Beard Stroke at a Time! 🧔"
+        return "To be get called as the Best Data Scientist, Focus on one goal at a Time! 🧔"
 
 # Initialize
 shivam = ShivamShrivastava()
