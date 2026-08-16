@@ -28,7 +28,6 @@ class ShivamShrivastava:
         self.name = "Shivam Shrivastava"
         self.role = "Specialist Data Scientist"
         self.experience = "8+ years"
-        self.platform = "Beard and Binary"
         self.location = "Hyderabad, India 🇩🇪"
         self.origin = "Bhopal, India 🇮🇳"
         
@@ -36,7 +35,7 @@ class ShivamShrivastava:
         return {
             "languages": ["Python","SQL","R"],
             "ml_frameworks": ["PyTorch", "Horovod", "DDP"],
-            "ai_tools": ["LangChain", "LangGraph", "Guardrails"],
+            "ai_tools": ["LangChain", "LangGraph","LangFuse"],
             "databases": ["SQL", "MongoDB", "Redis", "Cassandra"],
             "passion": ["Badminton 🏸", "Music 🎵", "AI 🤖", "Coffee ☕"]
         }
